@@ -1,0 +1,10 @@
+config.py
+__pycache__/
+*.pyc
+.env
+
+# Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
